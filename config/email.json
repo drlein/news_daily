@@ -1,0 +1,10 @@
+{
+  "_说明": "163邮箱发送配置，SMTP授权码请替换为真实授权码",
+  "smtp_server": "smtp.163.com",
+  "smtp_port": 465,
+  "use_ssl": true,
+  "sender": "brenbren2@163.com",
+  "password": "TFyZXba7rUg7M6ZT",
+  "recipients": ["biao.ren@outlook.com", "921844998@qq.com"],
+  "subject_prefix": "[行业日报]"
+}

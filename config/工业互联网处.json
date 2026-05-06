@@ -1,0 +1,715 @@
+{
+  "department": "工业互联网处",
+  "news_sources": [
+    {
+      "type": "web",
+      "name": "工信部",
+      "url": "https://www.miit.gov.cn/",
+      "info_type": "电子信息类",
+      "remark": ""
+    },
+    {
+      "type": "web",
+      "name": "贵州省工信厅",
+      "url": "https://gxt.guizhou.gov.cn/",
+      "info_type": "电子信息类",
+      "remark": ""
+    },
+    {
+      "type": "web",
+      "name": "国家统计局",
+      "url": "https://www.stats.gov.cn/",
+      "info_type": "电子信息类",
+      "remark": ""
+    },
+    {
+      "type": "web",
+      "name": "工信部电子信息司",
+      "url": "https://www.miit.gov.cn/gyhxxhb/jgsj/dzxxsnew/index.html",
+      "info_type": "电子信息类",
+      "remark": ""
+    },
+    {
+      "type": "web",
+      "name": "中国电子信息产业发展研究院",
+      "url": "https://www.ccidgroup.com/",
+      "info_type": "电子信息类",
+      "remark": ""
+    },
+    {
+      "type": "web",
+      "name": "中国信息通信研究院",
+      "url": "https://www.caict.ac.cn/",
+      "info_type": "电子信息类",
+      "remark": ""
+    },
+    {
+      "type": "web",
+      "name": "中国半导体行业协会",
+      "url": "https://www.csia.net.cn",
+      "info_type": "电子信息类",
+      "remark": ""
+    },
+    {
+      "type": "web",
+      "name": "中国电子元件行业协会",
+      "url": "https://www.cnea.org",
+      "info_type": "电子信息类",
+      "remark": ""
+    },
+    {
+      "type": "web",
+      "name": "中国电子视像行业协会",
+      "url": "https://www.cvida.org",
+      "info_type": "电子信息类",
+      "remark": ""
+    },
+    {
+      "type": "web",
+      "name": "中国电子学会",
+      "url": "https://www.cie.org.cn/",
+      "info_type": "电子信息类",
+      "remark": ""
+    },
+    {
+      "type": "web",
+      "name": "人民日报",
+      "url": "https://www.people.com.cn/",
+      "info_type": "电子信息类",
+      "remark": ""
+    },
+    {
+      "type": "web",
+      "name": "CCTV",
+      "url": "https://www.cctv.cn/",
+      "info_type": "电子信息类",
+      "remark": ""
+    },
+    {
+      "type": "web",
+      "name": "国家市场监督管理总局",
+      "url": "https://www.samr.gov.cn/",
+      "info_type": "电子信息类",
+      "remark": ""
+    },
+    {
+      "type": "wechat",
+      "name": "工信微报",
+      "info_type": "电子信息类",
+      "remark": ""
+    }
+  ],
+  "sentiment_companies": [
+    {
+      "company": "贵州永安电机有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州微芯科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州芯火悦创科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州双坤电子科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州医立生物电子技术有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州瀚强科技有限责任公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州连强科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州纽邦通信科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州安芯电子有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州康达精密电子科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州安信云智科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州省晟算科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州金天阳光电科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州视扬科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州泰坦电气系统有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州新智造科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵阳臻芯科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "联积电子（贵州）有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州筑芯科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州煜晖电子科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州煜晖半导体科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州沃顿电气有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州煜晖数科科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "泰新半导体（贵州）有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州行瑞天成科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵阳花溪达沃斯光电有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵阳新燎原电气设备制造有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵阳新豪光电有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵阳新天光电科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州航天电源科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "麦克奥迪（贵阳）仪器有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵阳精一科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州振华群英电器有限公司（国营第八九一厂）",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "中国振华集团永光电子有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "中国振华（集团）新云电子元器件有限责任公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州振华红云电子有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "中国振华电子集团宇光电工有限公司（国营第七七一厂）",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "中国振华集团云科电子有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵阳永青智控科技股份有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州贵标线缆有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州金龙电缆有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵阳贵通电缆制造有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵阳恒信线缆有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州嘉盈科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "中黔电气集团股份有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州通源达电气有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州怡昕源科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵阳中安科技集团有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵阳中安科技集团金属拉丝有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州恒飞科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州南凡半导体科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州保胜线缆有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州源诚利华技术有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州西华线缆有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州中芯微电子科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州万家灯火电气智造有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州旭鼎光电科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州人民电线电缆有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州金峰电缆有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州亿科电力电气设备有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "炬光电力集团有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州奇伟实业发展有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州中源线缆有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州航盛锂能科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州众源能源有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵阳顺络迅达电子有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州中远博联电气工程有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州永昱电气科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵阳高新益舸电子有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州辰矽电子科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州达沃斯光电有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州振华新材料有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵阳学通仪器仪表有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州长通电气有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州雅光电子科技股份有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州筑威智慧水务有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵阳信络电子有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州振华风光半导体股份有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州航天林泉电机有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵阳晶华电子材料有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州玉蝶电工股份有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州安吉华元科技发展有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州中航聚电科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵阳海信电子有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州长宇电力电气有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州雪中情电器制造有限责任公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵阳鑫恒泰实业有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵阳海信电子科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵阳龙筹智能科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州兴杭电缆有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵阳卓英社光电科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州铂韬新材料科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州凯敏博机电科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州新曙光电缆有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州航天电器股份有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵阳经济开发区鼎盛铜业有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州锐通海电子科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "富联精密电子（贵阳）有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州集隽半导体科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州凯朗德电力科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵阳鼎山新能源有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵阳市立晟电子科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州博瀚微科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州浩泽微电子有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州优必选科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州惠科金扬科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州惠科显示科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州高点科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州固迪科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵安新区中科星城石墨有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州凯瑞嘉光电有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州云上鲲鹏科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "中晶（贵州）显示科技有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州华鑫信息技术有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州海纳储能技术有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州中融智能制造有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵州千照光电有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    },
+    {
+      "company": "贵安新区华旭科技开发有限公司",
+      "info_type": "新品发布会类、投融资类",
+      "remark": ""
+    }
+  ],
+  "search_keywords": [
+    "电子信息类"
+  ],
+  "time_range_days": 7,
+  "exclude_keywords": [
+    "股市行情",
+    "基金净值",
+    "ETF",
+    "个人理财",
+    "广告"
+  ],
+  "filter_criteria": {
+    "news_priorities": [
+      "政策出台与分析",
+      "行业重要动态、趋势",
+      "重点企业重大项目/投资",
+      "产业数据、市场分析",
+      "技术创新与科研成果"
+    ],
+    "sentiment_focus": "根据信息类型和备注判断正/反向舆情"
+  }
+}
