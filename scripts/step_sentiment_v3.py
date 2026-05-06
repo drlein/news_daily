@@ -41,8 +41,7 @@ if os.path.exists(RUNTIME_CONFIG):
         os.environ.setdefault("DEEPSEEK_API_KEY", rc.get("DEEPSEEK_API_KEY", ""))
 
 if not BAIDU_API_KEY:
-    BAIDU_API_KEY = os.environ.get("BAIDU_API_KEY",
-        "bce-v3/ALTAK-bBCOizZ2VaB1dVON4z1d5/3b5c35c46c163050cb4b0b08cefa8282a2099c80")
+    BAIDU_API_KEY = os.environ.get("BAIDU_API_KEY", "")
 
 GENERAL_NEGATIVE_KEYWORDS = ["处罚", "违规", "事故", "罚款", "停产", "整改", "诉讼",
                               "查封", "投诉", "安全问题", "环保", "负面", "风险"]
